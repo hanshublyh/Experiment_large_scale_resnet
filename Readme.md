@@ -1,7 +1,9 @@
 分别运行 
-`run_a1.sh`
-`run_a1_1.sh`
-`run_a3.sh`
+'''
+run_a1.sh
+run_a1_1.sh
+run_a3.sh
+'''
 
 a1测试两种参数，a3只测试一种，虽然文件夹给出了a3的两种参数，但只测一种
 main.ipynb是生成数据用的
