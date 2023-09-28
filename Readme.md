@@ -7,8 +7,7 @@ run_a3.sh
 ```
 其中，a1测试两种参数，a3只测试一种，虽然文件夹给出了a3的两种参数，但只测一种。
 ### 其余说明
-main.ipynb是生成数据用的
-deivce是所有文件共用的参数 指定gpu
+```main.ipynb```是生成数据用的,```deivce.txt```是所有文件共用的参数 指定gpu
 5_40不运行 是我自己测试并且生成数据用的 
 每种文件之后的para1.txt para3.txt是单和多智能体的参数 从80_200-->150_500基本一致
 在para1.txt para3.txt para1_1.txt里 batch_size统一设置为512
